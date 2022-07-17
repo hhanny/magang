@@ -1,5 +1,6 @@
-# magang
-## Magang
-![download](https://user-images.githubusercontent.com/79302585/179406077-383d3479-be5b-45aa-95fc-9e1356831b6a.png)
-
-
+# INPUTAN DOKTER
+## <li> Dokter Spesialis
+      - Umum
+      - Gigi
+      - Konservatori Gigi (jaringan lunak pada bagian tengah gigi atau pulpa gigi)
+      - Penyakit Dalam
