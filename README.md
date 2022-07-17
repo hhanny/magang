@@ -1,6 +1,6 @@
 ## INPUTAN DOKTER
 ### <li> Foto Profil 
-      ![dokter](https://user-images.githubusercontent.com/79302585/179412636-3bd26262-2dfe-4cfb-a6c4-90c7ef1bc0cf.jpg)
+thubusercontent.com/79302585/179412636-3bd26262-2dfe-4cfb-a6c4-90c7ef1bc0cf.jpg)
 ### <li> Nama Dokter
 ### <li> Dokter Spesialis
       - Umum
