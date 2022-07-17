@@ -25,9 +25,9 @@
       - Kedokteran olahraga
       - Okupasi (ilmu kedokteran yang memberikan pelayanan dan perlindungan kesehatan pekerja/tenaga kerja guna menciptakan pekerja/tenaga kerja yang sehat dan produktif)
       - Fisik & Rehabilitasi
-   <li> NO SIP (surat izin praktek)
-   <li> NIP (nomor identitas pegawai)
-   <li> Asisten, jika ada
+### <li> NO SIP (surat izin praktek)
+### <li> NIP (nomor identitas pegawai)
+### <li> Asisten, jika ada
       - Nama
       - Email
       - Nomor Hp
