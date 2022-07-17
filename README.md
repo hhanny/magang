@@ -41,6 +41,8 @@
 ### <li> Nomor Telepon Tempat Praktik
 ### <li> Provinsi
 ### <li> Kota
+### <li> Waktu Praktek
+### <li> Alumni
       
 ## INPUTAN Registrasi Antrean
 ### <li> Daftar Identitas Pasien
@@ -61,6 +63,9 @@
       - Nomor Asuransi
       - Agama
       - Pendidikan / Pekerjaan
+      - Anamnesis (keluhan utama secara singkat)
+      - Alergi & Kondisi Khusus
+      - 
  
 ## INPUTAN Vaksin
 ### - Vaksin
@@ -75,8 +80,60 @@
     - Jam
     - Catatan
       
-## Saturasi Oksigen
+## INPUTAN Saturasi Oksigen
    - Hasil
    - Nadi
    - Tanggal
    - Waktu      
+
+## INPUTAN Pemeriksaan
+   - Nomor Rekam Medis
+   - Suhu 
+   - Berat
+   - Tinggi
+   - Gejala
+   - Diagnosa
+   - Catatan
+   - Dokter
+   - Tempat
+   - Tanggal
+   - Tensi
+   - Anemnesis 
+   - Durasi
+   - Dosis
+   - Keterangan
+ 
+ ## INPUTAN Obat
+   - Nama Merk
+   - Harga
+   - Pabrikan
+   - Nama / Obat Generik
+   - Golongan
+   - Tanggal Kadaluarsa
+   - Harga Jual
+   - Stok
+   - Tanggal Beli
+
+## INPUTAN Jadwal Kunjungan Pasien
+   - Rekam Medis
+   - Agenda
+   - Waktu Kunjungan Berikutnya
+   - Dokter
+   
+## INPUTAN Tindakan
+  - Nama Tindakan
+  - Tarif 
+
+      
+   
+      
+ 
+ 
+      
+      
+      
+      
+      
+      
+      
+      
