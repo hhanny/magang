@@ -62,5 +62,20 @@
       - Agama
       - Pendidikan / Pekerjaan
  
-## INPUTAN  
-     
+## INPUTAN Vaksin
+### - Vaksin
+    - Tanggal Vaksin
+
+## INPUTAN Gula Darah
+### Opsi
+    - Puasa
+    - Setelah Makan
+    - Hasil .mg/dL
+    - Tanggal
+    - Jam
+    - Catatan
+## Saturasi Oksigen
+### - Hasil
+### - Nadi
+### - Tanggal
+### - Waktu      
