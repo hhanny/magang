@@ -27,7 +27,7 @@
       - Fisik & Rehabilitasi
    <li> NO SIP (surat izin praktek)
    <li> NIP (nomor identitas pegawai)
-   <li> Asisten [jika ada]
+   <li> Asisten, jika ada
       - Nama
       - Email
       - Nomor Hp
