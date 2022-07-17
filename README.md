@@ -1,4 +1,7 @@
 ## INPUTAN DOKTER
+### <li> Foto Profil 
+      ![download](https://user-images.githubusercontent.com/79302585/179412280-a314bc16-ef57-4db8-97ab-72fea314a028.jpg)
+### <li> Nama Dokter
 ### <li> Dokter Spesialis
       - Umum
       - Gigi
@@ -32,7 +35,15 @@
       - Email
       - Nomor Hp
       - Password
-         
+### <li> Jenis Kelamin
+### <li> Nomor HP
+### <li> Alamat Praktik
+### <li> Email
+### <li> Nomor Telepon Tempat Praktik
+### <li> Provinsi
+### <li> Kota
+
+      
 ## INPUTAN Registrasi Antrean
 ### <li> Daftar Identitas Pasien
       - Nama Lengkap
