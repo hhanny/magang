@@ -124,6 +124,12 @@
   - Nama Tindakan
   - Tarif 
 
+## INPUT Pembayaran
+- No Rekam Medis
+- Jenis Pembayaran
+- Tanggal     
+- Tarif 
+      
       
    
       
