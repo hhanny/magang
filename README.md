@@ -68,8 +68,8 @@
       - 
  
 ## INPUTAN Vaksin
-### Nama Vaksin
-### Tanggal Vaksin
+### <li> Nama Vaksin
+### <li> Tanggal Vaksin
 
 ## INPUTAN Gula Darah
 ### Opsi
