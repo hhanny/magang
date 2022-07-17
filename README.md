@@ -62,5 +62,5 @@
       - Agama
       - Pendidikan / Pekerjaan
  
-## INPUTAN 
+## INPUTAN  
      
