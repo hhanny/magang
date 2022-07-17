@@ -74,8 +74,9 @@
     - Tanggal
     - Jam
     - Catatan
+      
 ## Saturasi Oksigen
-### - Hasil
-### - Nadi
-### - Tanggal
-### - Waktu      
+   - Hasil
+   - Nadi
+   - Tanggal
+   - Waktu      
