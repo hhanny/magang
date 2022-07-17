@@ -1,6 +1,5 @@
 ## INPUTAN DOKTER
-### <li> Foto Profil 
-![dokter](https://user-images.githubusercontent.com/79302585/179412987-2b2c7770-f04b-4d3b-9079-e7c2eecb8a39.jpg)
+### <li> Foto Profil .jpg
 ### <li> Nama Dokter
 ### <li> Dokter Spesialis
       - Umum
@@ -42,12 +41,12 @@
 ### <li> Nomor Telepon Tempat Praktik
 ### <li> Provinsi
 ### <li> Kota
-
       
 ## INPUTAN Registrasi Antrean
 ### <li> Daftar Identitas Pasien
       - Nama Lengkap
-      - No RM
+      - Nama Panggilan
+      - No Rekam Medis
       - Jenis Identitas
       - No Identitas
       - Tanggal Lahir
@@ -58,5 +57,10 @@
       - No Hp
       - Email
       - Nama, No.Hp, Hubungan dengan Pasien, Penanggung Jawab
-  
+      - Jenis Asuransi
+      - Nomor Asuransi
+      - Agama
+      - Pendidikan / Pekerjaan
+ 
+## INPUTAN 
      
